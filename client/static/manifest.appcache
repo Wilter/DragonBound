@@ -1,0 +1,51 @@
+CACHE MANIFEST
+
+# code aa
+js/soundmanager2-jsmin.js
+js/alertify.min.js
+js/socket.io.min.js
+js/jquery.plugins.js
+js/cryptojs.core-min.js
+js/jquery.tipsy.js
+js/jquery.tiny.js
+js/jquery.touch.js
+js/avatars.js?1
+js/game.js?8
+css/dragon.css?1
+css/jq.css?1
+
+# DB Theme
+images/lobby_stuff6.png
+images/themes/gl/bg_full.jpg
+images/room_stuff2.png
+images/game_stuff6.png
+images/shop_stuff3.png
+images/scores_stuff2.png
+images/items2.png
+
+# lobby
+images/arrow.png
+css/images/ui-bg_flat_75_ffffff_40x100.png
+css/images/ui-icons_222222_256x240.png
+images/ava/fh00011.png
+images/ava/fb00011.png
+
+# room
+images/ready2.gif
+images/start2.gif
+images/maps.png
+
+# game
+images/turn_timer.png
+images/thor.png
+images/lightnings.png
+images/1/gold.png
+images/1/turn.png
+images/1/turnwa.png
+images/1/bpush1.png
+images/1/bselect1.png
+
+NETWORK:
+*
+http://*
+https://*
