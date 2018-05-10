@@ -18,7 +18,6 @@ Install modules with npm:
 ```sh
 $ npm install nodemon
 ```
-Install modules with npm:
 ```sh
 $ npm install websocket
 ```
