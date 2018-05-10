@@ -1,5 +1,9 @@
-DragonBoundNode
-===============
+DragonBound
+===========
+link proyect :
+http://sharkgun.net  by MR(Developer)
+
+current version in progress :)
 
 #### If you want to help me :)
   [![ScreenShot](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](http://tinyurl.com/DonationX)
@@ -10,7 +14,10 @@ Install nodejs:
 ```sh
 http://nodejs.org/
 ```
-
+Install modules with npm:
+```sh
+$ npm install nodemon
+```
 Install modules with npm:
 ```sh
 $ npm install websocket
