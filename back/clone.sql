@@ -1,4 +1,4 @@
-create databse clone;
+create database clone;
 use clone;
 
 SET FOREIGN_KEY_CHECKS=0;
